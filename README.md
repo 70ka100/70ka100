@@ -1,7 +1,7 @@
 # Hi there 👋
 # Test Markup
-## Test
 ### Test
+## Test
 
 <!--
 **70ka100/70ka100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
